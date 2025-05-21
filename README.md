@@ -1,4 +1,9 @@
+# Toy Robot Simulator
+
 This project is a toy robot simulator. It simulates a robot moving on a 5x5 grid surface.
+
+![App Preview](app-image.png)
+
 #### Technologies Used
 - Nuxt.js
 - React.js

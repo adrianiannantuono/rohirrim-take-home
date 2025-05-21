@@ -137,7 +137,7 @@ export default function Home() {
   }
 
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-neutral-900 text-white">
+    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center h-[100vh] p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-neutral-900 text-white">
       <main className="flex flex-col gap-[32px] row-start-2 items-center">
         <div className="w-full flex flex-col gap-4 items-center bg-neutral-800 p-4 rounded-md">
           Click to place the robot, use the buttons or arrow keys to move
